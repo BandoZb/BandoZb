@@ -1,16 +1,21 @@
-## Hi there 👋
+# HI 👋, I AM BANDO 
 
-<!--
-**BandoZb/BandoZb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✉️ Contact me at my email  ztfernando002@gmail.com 
+- 🚀 Learning languages ​​and working on my projects
+- 💻 Learning Python,  C# and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+-   Java        
+-   Python
+-   HTML
+-   CSS
+
+---
+
+
+
+
+
