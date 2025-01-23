@@ -12,7 +12,7 @@
 -   Python
 -   HTML
 -   CSS
-
+-   MySql
 ---
 
 
