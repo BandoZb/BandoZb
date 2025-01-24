@@ -9,12 +9,21 @@
 ---
 
 ### Skills
-<img src="iconoJavaFondo.png" alt="Lenguaje MySQL" width="50" url=https://www.java.com/es/><img src="iconoPython.png" alt="Lenguaje MySQL" width="50"><img src="iconoHtml.png" alt="Lenguaje MySQL" width="50"><img src="iconoCss.png" alt="Lenguaje MySQL" width="50"><img src="iconoMySSQL.png" alt="Lenguaje MySQL" width="40">     
-
-
-
-
-
+<a href="https://www.java.com/" target="_blank">
+  <img src="iconoJavaFondo.png" alt="Lenguaje Java" width="50">
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="iconoPython.png" alt="Lenguaje Python" width="50">
+</a>
+<a href="https://html.spec.whatwg.org/" target="_blank">
+  <img src="iconoHtml.png" alt="Lenguaje HTML" width="50">
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img src="iconoCss.png" alt="Lenguaje CSS" width="50">
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="iconoMySSQL.png" alt="Lenguaje MySQL" width="40">
+</a>
 ---
 
 
