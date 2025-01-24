@@ -9,11 +9,11 @@
 ---
 
 ### Skills
-<img src="iconoJavaFondo.png" alt="Lenguaje MySQL" width="50">      
-<img src="iconoPython.png" alt="Lenguaje MySQL" width="50">
-<img src="iconoHtml.png" alt="Lenguaje MySQL" width="50">
-<img src="iconoCss.png" alt="Lenguaje MySQL" width="50">
-<img src="iconoMySSQL.png" alt="Lenguaje MySQL" width="40">
+<img src="iconoJavaFondo.png" alt="Lenguaje MySQL" width="50"><img src="iconoPython.png" alt="Lenguaje MySQL" width="50"><img src="iconoHtml.png" alt="Lenguaje MySQL" width="50"><img src="iconoCss.png" alt="Lenguaje MySQL" width="50"><img src="iconoMySSQL.png" alt="Lenguaje MySQL" width="40">     
+
+
+
+
 
 ---
 
