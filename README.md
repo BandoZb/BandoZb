@@ -4,7 +4,7 @@
 - ✉️ Contact me at my email  ztfernando002@gmail.com 
 - 🚀 Learning languages ​​and working on my projects
 - 💻 Learning C# , CSS and HTML
-- ⚒️ Working with Blazor and Mudblazor
+- ⚒️ Developing my website
 
 
 ---
